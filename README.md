@@ -2,6 +2,7 @@
 
 # Install and run project
 
-npm install
+`npm install`
 
-npm start
+`npm start`
+
