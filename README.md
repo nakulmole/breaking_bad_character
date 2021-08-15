@@ -1,6 +1,6 @@
 # breaking_bad_character 
 
-# Install and run project
+# Run project
 
 `npm install`
 
